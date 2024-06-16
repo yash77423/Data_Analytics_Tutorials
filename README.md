@@ -1,4 +1,5 @@
 Basic tutorials on Data Analytics using Python that will demonstrate:  
+
 • Implementation of simple python scripts.
 
 • Application of vectorization techniques for exploring numerical and scientific computing packages of Python.
